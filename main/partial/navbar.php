@@ -24,7 +24,7 @@
         <div class=" share-div">
           <div class="social-icon btn-outline-primary btn"><span class="fa fa-facebook"></span></div>
           <div class="social-icon btn-outline-danger btn"><span class="fa fa-youtube"></span></div>
-          <div class="social-icon btn btn-outline-danger" style=""><span class="fa fa-instagram"></span></div>
+          <div class="social-icon btn btn-outline-danger"><span class="fa fa-instagram"></span></div>
           <div class="social-icon btn-outline-success btn"><span class="fa fa-whatsapp"></span></div>
         </div>
       </div>
@@ -130,7 +130,7 @@
 </li>
 
 <!-- faculty menu bar -->
-    <li><a href="http://localhost/djcollege/main/faculty.php">Faculty</a></li>
+    <!-- <li><a href="http://localhost/djcollege/main/faculty.php">Faculty</a></li> -->
 
     <!-- Student zone menu bar -->
     <li> 
@@ -155,8 +155,8 @@
       <a href="">Gallery</a>
       <input type="checkbox" id="drop-9"/>
       <ul class="drop-down">
-        <li><a href="http://localhost/djcollege/main/gallery/gallery1.php">Login</a></li>
-        <li><a href="#">Registration</a></li>
+        <li><a href="http://localhost/djcollege/main/gallery/gallery1.php">College event</a></li>
+        <li><a href="#">Other</a></li>
         
       </ul>
     </li>
@@ -169,11 +169,28 @@
         <a href="">Almuni</a>
         <input type="checkbox" id="drop-10"/>
         <ul class="drop-down">
-          <li><a href="http://localhost/djcollege/main/alumani/register.php">Login</a></li>
-          <li><a href="#">Registration</a></li>
+          <li><a href="http://localhost/djcollege/main/alumani/register.php">Registration</a></li>
+          <li><a href="#">Member</a></li>
           
         </ul>
       </li>
+
+
+        <!-- IQAC +SSR  menu bar -->
+        <li> 
+        <!-- First Tier Drop Down -->
+        <label for="drop-11" class="toggle">IQAC +</label>
+        <a href="">IQAC</a>
+        <input type="checkbox" id="drop-11"/>
+        <ul class="drop-down">
+          <li><a href="http://localhost/djcollege/main/iqac.php">IQAC</a></li>
+          <li><a href="http://localhost/djcollege/main/ssr.php">SSR</a></li>
+          
+        </ul>
+      </li>
+
+<!-- Rti menu bar -->
+    <li><a href="http://localhost/djcollege/main/rti.php">RTI</a></li>
   </ul>
   
 </nav>

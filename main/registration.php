@@ -5,7 +5,10 @@ $exists=false;
 if ($_SERVER["REQUEST_METHOD"]=="POST") {
 
 require 'partial/db_connect.php';
+$name=$_POST["name"];
 $email=$_POST["email"];
+$number=$_POST["number"];
+$address=$_POST["address"];
 $password=$_POST["password"];
 $cpassword=$_POST["password-repeat"];
 
@@ -24,7 +27,7 @@ else
 if (($password==$cpassword)) {
   $hash=password_hash($password,PASSWORD_DEFAULT);
 
-    $sql="INSERT INTO `users` ( `email`, `password`, `Date`) VALUES ( '$email', '$hash', current_timestamp())";
+    $sql="INSERT INTO `users` ( `name` ,`email`, `number` , `address` , `password`, `Date`) VALUES ( '$name' ,'$email', '$number', '$address' , '$hash', current_timestamp())";
     $result=mysqli_query($conn,$sql);
     if ($result) {
        $showAlert=true;
@@ -117,7 +120,10 @@ if ($showError) {
             <div class="image-holder"></div>
             <form method="post">
                 <h2 class="text-center"><strong>Create</strong> an account.</h2>
+                <div class="mb-3"><input class="form-control" type="name" name="name" required placeholder="Name"></div>
                 <div class="mb-3"><input class="form-control" type="email" name="email" required placeholder="Email"></div>
+                <div class="mb-3"><input class="form-control" type="tel" name="number" required placeholder="Number"></div>
+                <div class="mb-3"><input class="form-control" type="address" name="address" required placeholder="Address"></div>
                 <div class="mb-3"><input class="form-control" type="password" name="password" required placeholder="Password"></div>
                 <div class="mb-3"><input class="form-control" type="password" name="password-repeat" placeholder="Password (repeat)"></div>
                 <div class="mb-3">

@@ -127,7 +127,7 @@ font-size: 0.9rem !important;
  --------------------------------------------- */
  @media all and (max-width : 1136px) {
   nav a {
-    padding: 0 11px;
+    padding: 0 8px;
     font-size: 16px;
   }
 }

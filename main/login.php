@@ -38,15 +38,6 @@ $sql="Select * from users where email='$email'";
 
 
 
-
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -112,7 +103,7 @@ if ($login==false) {
             <div class="illustration"><i class="icon ion-ios-navigate"></i></div>
             <div class="mb-3"><input class="form-control" type="email" name="email" placeholder="Email" value=""></div>
             <div class="mb-3"><input class="form-control" type="password" name="password" placeholder="Password" value=""></div>
-            <div class="mb-3"><button class="btn btn-primary d-block w-100" type="submit">Log In</button></div><a class="forgot" href="#">Forgot your email or password?</a>
+            <div class="mb-3"><button class="btn btn-primary d-block w-100" type="submit">Log In</button></div><a class="forgot" href="forgot-password.php">Forgot your email or password?</a>
         </form>
     </section>
     <?php include 'partial/footer.php';?>

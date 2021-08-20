@@ -26,7 +26,20 @@
 </head>
 <body>
 
-<?php include 'partial/navbar.php';?>
+
+<?php 
+include 'partial/navbar.php';
+?>
+
+
+
+
+
+
+
+
+
+
 <div class="container mt-5">
     <div class="row">
         <div class="col">
@@ -34,19 +47,26 @@
                 <div class="card-header  text-white" style="background: #E43C5C;"><i class="fa fa-envelope"></i> Contact us.
                 </div>
                 <div class="card-body">
-                    <form>
+                    <form method="POST" action="contactbackend.php">
                         <div class="form-group">
                             <label for="name">Name</label>
-                            <input type="text" class="form-control" id="name" aria-describedby="emailHelp" placeholder="Enter name" required>
+                            <input type="text" class="form-control" name="name" id="name" aria-describedby="emailHelp" placeholder="Enter name" required>
                         </div>
                         <div class="form-group">
                             <label for="email">Email address</label>
-                            <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email" required>
+                            <input type="email" class="form-control" name="email" id="email" aria-describedby="emailHelp" placeholder="Enter email" required>
                             <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                         </div>
+
+                        <div class="form-group">
+                            <label for="email">Email address</label>
+                            <input type="email" class="form-control" name="subject" id="email" aria-describedby="emailHelp" placeholder="Enter email" required>
+                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                        </div>
+
                         <div class="form-group">
                             <label for="message">Message</label>
-                            <textarea class="form-control" id="message" rows="6" required></textarea>
+                            <textarea class="form-control" name="message" id="message" rows="6" required></textarea>
                         </div>
                         <div class="mx-auto">
                         <button type="submit" class="btn text-right" style="background-color: #E43C5C ;color:white;">Submit</button></div>
