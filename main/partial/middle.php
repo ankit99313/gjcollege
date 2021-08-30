@@ -14,48 +14,44 @@
       <div class="container-md section-title">
           
           <div class="row">
-              <div class="col-12 justify-content-center  text-center col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
-                  <div class="text-center icon-box">
+              <div class="col-12 col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 college-event">
+                  <div class="w-100 icon-box">
                       <div class="icon">
-                          <h4 class="title">College event<a href="#"></a></h4>
-                          <div class=" overflow-auto  notice-board " " >
+                          <h4 class="title college--event__title "> <span class="fa fa-calendar"></span> College event<a href="#"></a></h4>
+                          <div class=" overflow-auto  notice-board "  >
 
                            
-                             <div id="marquee-div" class="overflow-hidden">
-                               <div  class="overflow-auto mh-70 description">
-                             <p>Hower over and hold the mouse marquee stop</p>
-                             <p>Hower over and hold the mouse marquee stop</p>
-                             <p>Hower over and hold the mouse marquee stop</p>
-                             <p>Hower over and hold the mouse marquee stop</p>
-                             <p>Hower over and hold the mouse marquee stop</p>
-                             <p>Hower over and hold the mouse marquee stop</p>
-                             <p>Hower over and hold the mouse marquee stop</p>
-                             <p>Hower over and hold the mouse marquee stop</p>
-                             <p>Hower over and hold the mouse marquee stop</p>
+                             <div  class="overflow-hidden marquee-div">
+                               <div  class="overflow-auto mh-70 description marquee-content">
+                               <p><a href="../gallery/gallery1.php" target="_blank">Three day yoga camp</a> </p>
+                               <p><a href="../gallery/gallery1.php" target="_blank">National Science Day-2019</a> </p>
+                               <p><a href="../gallery/gallery1.php" target="_blank">Republic Day Celebration 2018</a> </p>
+                            
+                              
                            </div>
                             </div>
                            </div>
                       </div>
                   </div>
               </div>
-              <div class="col-12 justify-content-center  text-center col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
-                <div class="text-center icon-box">
+              <div class="col-12   col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 ">
+                <div class=" icon-box w-100">
                     <div class="icon">
-                        <h4 class="title">Useful link<a href="#"></a></h4>
-                        <div class=" overflow-auto  notice-board " " >
+                        <h4 class="title college--useful--link__title"> <span class="fa fa-link"></span> Useful link<a href="#"></a></h4>
+                        <div class=" overflow-auto  notice-board "  >
 
                          
-                           <div id="marquee-div" class="overflow-hidden second-div">
-                             <div  class="overflow-auto mh-70 description">
-                           <p>Hower over and hold the mouse marquee stop</p>
-                           <p>Hower over and hold the mouse marquee stop</p>
-                           <p>Hower over and hold the mouse marquee stop</p>
-                           <p>Hower over and hold the mouse marquee stop</p>
-                           <p>Hower over and hold the mouse marquee stop</p>
-                           <p>Hower over and hold the mouse marquee stop</p>
-                           <p>Hower over and hold the mouse marquee stop</p>
-                           <p>Hower over and hold the mouse marquee stop</p>
-                           <p>Hower over and hold the mouse marquee stop</p>
+                           <div  class="overflow-hidden second-div marquee-div">
+                             <div  class="overflow-auto mh-70 description marquee-content marquee-animation">
+                           <p><a href="https://www.ugc.ac.in/" target="_blank">UGC</a> </p>
+                           <p><a href="https://www.ugc.ac.in/" target="_blank">NAAC</a></p>
+                           <p><a href="https://www.ugc.ac.in/" target="_blank">Patliputra union</a></p>
+                           <p><a href="https://www.ugc.ac.in/" target="_blank">Magadh</a></p>
+                           <p><a href="https://www.ugc.ac.in/" target="_blank">swayam</a></p>
+                           <p><a href="https://www.ugc.ac.in/" target="_blank">NLIST</a></p>
+                           <p><a href="https://www.ugc.ac.in/" target="_blank">Sodhganga</a></p>
+                           <p><a href="https://www.ugc.ac.in/" target="_blank">Bihar Higher education</a></p>
+                           <p><a href="https://www.ugc.ac.in/" target="_blank">NdL</a></p>
                          </div>
                           </div>
                          </div>
@@ -63,24 +59,20 @@
                 </div>
             </div>
 
-            <div class="col-12 justify-content-center  text-center col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
-              <div class="text-center icon-box">
+            <div class="col-12  col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
+              <div class="w-100 icon-box">
                   <div class="icon">
-                      <h4 class="title">Notice Board<a href="#"></a></h4>
+                      <h4 class="title college--notice--board__title"><span class="fa fa-edit"></span>Notice Board<a href="#"></a></h4>
                       <div class=" overflow-auto  notice-board " " >
 
                        
-                         <div id="marquee-div" class="overflow-hidden">
-                           <div id="marquee-content" class="overflow-auto mh-70 description">
-                         <p>Hower over and hold the mouse marquee stop</p>
-                         <p>Hower over and hold the mouse marquee stop</p>
-                         <p>Hower over and hold the mouse marquee stop</p>
-                         <p>Hower over and hold the mouse marquee stop</p>
-                         <p>Hower over and hold the mouse marquee stop</p>
-                         <p>Hower over and hold the mouse marquee stop</p>
-                         <p>Hower over and hold the mouse marquee stop</p>
-                         <p>Hower over and hold the mouse marquee stop</p>
-                         <p>Hower over and hold the mouse marquee stop</p>
+                         <div  class="overflow-hidden marquee-div">
+                           <div  class="overflow-auto mh-70 description marquee-content marquee-animation">
+                               <!-- <p><a href="" target="_blank">Notice1</a> </p>
+                               <p><a href="" target="_blank">Notice2</a> </p>
+                               <p><a href="" target="_blank">Notice3</a> </p>
+                               <p><a href="" target="_blank">Notice4</a> </p>
+                               <p><a href="" target="_blank">Notice5</a> </p> -->
                        </div>
                         </div>
                        </div>
@@ -99,15 +91,23 @@
   
   <div class="row g-0 align-items-center about ">
    
-    <div class="col-md-5 ">
-      <div class="text-center about-img">
-        <img  src="https://hypergroups.in/Visa/images/image-01.png" alt="tab-image" >
+    <div class="col-lg-3 col-md-4">
+      <div class="text-center text-lg-end about-img ">
+        <img  src="https://gjcollegebihta.ac.in/assets/img/principal.jpg"  alt="tab-image" class="shadow-lg">
       </div>
     </div>
 
-    <div class="col-md-7 text-center">
-      <h2>our solgan</h2>
-      <p class="px-4"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex labore optio commodi, quas veritatis quod in sit dolor sint ipsam a et Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab aut soluta eius perferendis et assumenda, amet doloribus. Eius repellendus placeat in fugit voluptates ab, distinctio omnis quasi, corrupti reiciendis ea labore odit eum natus tenetur deserunt, laborum mollitia? Tempore sequi dolores perspiciatis optio? Vel recusandae labore ea magni cum cumque aut error nobis corporis asperiores Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique dolores, id ab repellendus debitis alias accusamus odit laborum nisi, non libero modi dignissimos magni cumque vel! Voluptatum tempore, distinctio nobis exercitationem tenetur ullam.</p>
+    <div class="px-4 px-md-0 col-md-7 text-start offset-lg-1 offset-md-1 offset-0 mt-4 mt-md-0">
+      <h2 class="text-center text-md-start">Principal disk's</h2>
+      <p class=" ps-sm-0">You are most welcome in our College. I appreciate your decision to come in our contact for acquiring knowledge which will provide you good opportunity in securing a good job. Today, Education has unfolded innumerable job opportunities which inspired us to make available different job oriented courses, we provide you entire knowledge which will make you perfect. Our faculty members provide such an education which develop self confidence enabling you to face any interview in the field.</p>
+
+      <h6 class="fw-bolder">
+Prof. Dr. Bikash Krishna Singh
+<br>
+Principal In-Charge, (Sri Gadadhar Acharya Janta College)
+</h6>
+
+
     </div>
 
   </div>

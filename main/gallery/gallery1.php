@@ -33,10 +33,10 @@
     <div class="row">
       <!-- Gallery item -->
       <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-        <div class="bg-white rounded shadow-sm"><img src="../../assets/ankit.jpg" alt="" class="img-fluid card-img-top">
+        <div class="bg-white rounded shadow-sm"><img src="../../assets/img/yoga1.jpeg" alt="" class="img-fluid card-img-top">
           <div class="p-4">
-            <h5> <a href="#" class="text-dark">Red paint cup</a></h5>
-            <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+            <h5>yoga camp</h5>
+            <!-- <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p> -->
             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
               <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">JPG</span></p>
               <div class="badge badge-danger px-3 rounded-pill font-weight-normal">New</div>
@@ -48,10 +48,10 @@
 
       <!-- Gallery item -->
       <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-        <div class="bg-white rounded shadow-sm"><img src="../../assets/ankit.jpg" alt="" class="img-fluid card-img-top">
+        <div class="bg-white rounded shadow-sm"><img src="../../assets/img/yoga2.jpeg" alt="" class="img-fluid card-img-top">
           <div class="p-4">
-            <h5> <a href="#" class="text-dark">Blorange</a></h5>
-            <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+            <h5>yoga camp</h5>
+            
             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
               <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">PNG</span></p>
               <div class="badge badge-primary px-3 rounded-pill font-weight-normal">Trend</div>
@@ -63,25 +63,10 @@
 
       <!-- Gallery item -->
       <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-        <div class="bg-white rounded shadow-sm"><img src="../../assets/ankit.jpg" alt="" class="img-fluid card-img-top">
+        <div class="bg-white rounded shadow-sm"><img src="../../assets/img/yoga1.jpeg" alt="" class="img-fluid card-img-top">
           <div class="p-4">
-            <h5> <a href="#" class="text-dark">And She Realized</a></h5>
-            <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-            <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-              <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">JPG</span></p>
-              <div class="badge badge-warning px-3 rounded-pill font-weight-normal text-white">Featured</div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- End -->
-
-      <!-- Gallery item -->
-      <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-        <div class="bg-white rounded shadow-sm"><img src="../../assets/ankit.jpg" alt="" class="img-fluid card-img-top">
-          <div class="p-4">
-            <h5> <a href="#" class="text-dark">DOSE Juice</a></h5>
-            <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+          <h5>yoga camp</h5>
+            
             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
               <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">JPEG</span></p>
               <div class="badge badge-success px-3 rounded-pill font-weight-normal">Hot</div>
@@ -93,10 +78,25 @@
 
       <!-- Gallery item -->
       <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-        <div class="bg-white rounded shadow-sm"><img src="../../assets/ankit.jpg" alt="" class="img-fluid card-img-top">
+        <div class="bg-white rounded shadow-sm"><img src="../../assets/img/yoga4.jpeg" alt="" class="img-fluid card-img-top">
           <div class="p-4">
-            <h5> <a href="#" class="text-dark">Pineapple</a></h5>
-            <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+          <h5>yoga camp</h5>
+            
+            <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
+              <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">JPEG</span></p>
+              <div class="badge badge-success px-3 rounded-pill font-weight-normal">Hot</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End -->
+
+      <!-- Gallery item -->
+      <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+        <div class="bg-white rounded shadow-sm"><img src="../../assets/img/na1.png" alt="" class="img-fluid card-img-top">
+          <div class="p-4">
+            <h5>National science day</h5>
+            
             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
               <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">PNG</span></p>
               <div class="badge badge-primary px-3 rounded-pill font-weight-normal">New</div>
@@ -108,10 +108,10 @@
 
       <!-- Gallery item -->
       <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-        <div class="bg-white rounded shadow-sm"><img src="../../assets/ankit.jpg" alt="" class="img-fluid card-img-top">
+        <div class="bg-white rounded shadow-sm"><img src="../../assets/img/na2.png" alt="" class="img-fluid card-img-top">
           <div class="p-4">
-            <h5> <a href="#" class="text-dark">Yellow banana</a></h5>
-            <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+          <h5>National science day</h5>
+            
             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
               <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">JPG</span></p>
               <div class="badge badge-warning px-3 rounded-pill font-weight-normal text-white">Featured</div>
@@ -123,10 +123,10 @@
 
       <!-- Gallery item -->
       <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-        <div class="bg-white rounded shadow-sm"><img src="../../assets/ankit.jpg" alt="" class="img-fluid card-img-top">
+        <div class="bg-white rounded shadow-sm"><img src="../../assets/img/na3.png" alt="" class="img-fluid card-img-top">
           <div class="p-4">
-            <h5> <a href="#" class="text-dark">Teal Gameboy</a></h5>
-            <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+          <h5>National science day</h5>
+            
             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
               <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">JPEG</span></p>
               <div class="badge badge-info px-3 rounded-pill font-weight-normal">Hot</div>
@@ -138,10 +138,10 @@
 
       <!-- Gallery item -->
       <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-        <div class="bg-white rounded shadow-sm"><img src="../../assets/ankit.jpg" alt="" class="img-fluid card-img-top">
+        <div class="bg-white rounded shadow-sm"><img src="../../assets/img/na4.png" alt="" class="img-fluid card-img-top">
           <div class="p-4">
-            <h5> <a href="#" class="text-dark">Color in Guatemala.</a></h5>
-            <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+            <h5> National science day</h5>
+            
             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
               <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">PNG</span></p>
               <div class="badge badge-warning px-3 rounded-pill font-weight-normal text-white">Featured</div>
@@ -153,10 +153,10 @@
 
       <!-- Gallery item -->
       <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-        <div class="bg-white rounded shadow-sm"><img src="../../assets/ankit.jpg" alt="" class="img-fluid card-img-top">
+        <div class="bg-white rounded shadow-sm"><img src="../../assets/img/re1.png" alt="" class="img-fluid card-img-top">
           <div class="p-4">
-            <h5> <a href="#" class="text-dark">Red paint cup</a></h5>
-            <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+          <h5> Republic Day</h5>
+            
             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
               <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">JPG</span></p>
               <div class="badge badge-danger px-3 rounded-pill font-weight-normal">New</div>
@@ -168,10 +168,10 @@
 
       <!-- Gallery item -->
       <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-        <div class="bg-white rounded shadow-sm"><img src="../../assets/ankit.jpg" alt="" class="img-fluid card-img-top">
+        <div class="bg-white rounded shadow-sm"><img src="../../assets/img/re2.png" alt="" class="img-fluid card-img-top">
           <div class="p-4">
-            <h5> <a href="#" class="text-dark">Lorem ipsum dolor</a></h5>
-            <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+          <h5> Republic Day</h5>
+            
             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
               <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">PNG</span></p>
               <div class="badge badge-primary px-3 rounded-pill font-weight-normal">Trend</div>
@@ -183,10 +183,10 @@
 
       <!-- Gallery item -->
       <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-        <div class="bg-white rounded shadow-sm"><img src="../../assets/ankit.jpg" alt="" class="img-fluid card-img-top">
+        <div class="bg-white rounded shadow-sm"><img src="../../assets/img/re3.png" alt="" class="img-fluid card-img-top">
           <div class="p-4">
-            <h5> <a href="#" class="text-dark">Lorem ipsum dolor</a></h5>
-            <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+          <h5> Republic Day</h5>
+            
             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
               <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">JPG</span></p>
               <div class="badge badge-warning px-3 rounded-pill font-weight-normal text-white">Featured</div>
@@ -198,13 +198,13 @@
 
       <!-- Gallery item -->
       <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-        <div class="bg-white rounded shadow-sm"><img src="../../assets/ankit.jpg" alt="" class="img-fluid card-img-top">
+        <div class="bg-white rounded shadow-sm"><img src="../../assets/img/re14.png" alt="" class="img-fluid card-img-top">
           <div class="p-4">
-            <h5> <a href="#" class="text-dark">Lorem ipsum dolor</a></h5>
-            <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+          <h5> Republic Day</h5>
+            
             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-              <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">JPEG</span></p>
-              <div class="badge badge-success px-3 rounded-pill font-weight-normal">Hot</div>
+              <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">JPG</span></p>
+              <div class="badge badge-warning px-3 rounded-pill font-weight-normal text-white">Featured</div>
             </div>
           </div>
         </div>

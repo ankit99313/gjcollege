@@ -39,9 +39,11 @@
 
   <div class="about-secti">
         <div class="inner-contain">
-            <h1>I.A</h1>
+            <h1>
+              Mission
+            </h1>
             <p class="textpa">
-               This is dummy text hisd fhiiiiiiiiii sdfhusf dfhhhhhhhhhhh agufffffffffffffsd uhsddddddd
+            To inculcate Spiritual, Ethical, Moral, ecological and social values to the students from all section of society.To develop simultaneous education of the Hand, Heart and Head.To disseminate the findings of research to the community to facilitate its development.
 
             </p>
            <div class="skills">

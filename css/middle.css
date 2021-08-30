@@ -1,131 +1,162 @@
-
-.about{
-    background-color: #f8f9fb;
-    padding: 55px 0;
-    
-    
+.college--event__title,
+.college--useful--link__title,
+.college--notice--board__title {
+  border-left: 5px solid #E43C5C;
+  padding: 10px 14px;
+  background: #f2f2f2;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #dddddd;
+  border-right: 1px solid #dddddd;
 }
-        .about-img img{
-            width: 64vw;
-        }
+.college--event__title > .fa,
+.college--useful--link__title .fa,
+.college--notice--board__title .fa{
+  color: #E43C5C;
+}
+.about {
+  background-color: #f8f9fb;
+  padding: 55px 0;
+}
+.about-img img {
+  width: 54vw;
+  border: 2px solid ;
+  outline: 2px solid ;
+  outline-offset: 4px;
+
+}
 
 .services .icon-box {
-    padding: 10px 20px;
-    position: relative;
-    overflow: hidden;
-    background: #fff;
-    box-shadow: 2px 0 35px 0 rgba(68, 88, 144, 0.12);
-    transition: all 0.3s ease-in-out;
-    border-radius: 8px;
-    z-index: 1;
-    text-align: center;
-  }
-  
-  .services .icon-box::before {
-    content: '';
-    position: absolute;
-    background: #fdeff2;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    top: 100%;
-    transition: all 0.4s;
-    z-index: -1;
-  }
-  
-  
-  
-  .services .icon {
-    margin-bottom: 15px;
-  }
-  
-  .services .icon i {
-    font-size: 48px;
-    line-height: 1;
-    color: #e43c5c;
-    transition: all 0.3s ease-in-out;
-  }
-  
-  .services .title {
-    font-weight: 700;
-    margin-bottom: 15px;
-    font-size: 18px;
-  }
-  
-  .services .title a {
-    color: #111;
-  }
-  
-  .services .description {
-    font-size: 15px;
-    line-height: 28px;
-    margin-bottom: 0;
-  }
-  
-  
-  
-  .services {
-    padding-bottom: 30px;
-  }
-  
-  
-
-
-
-  /* notice board */
-  .notice-board{
-    max-height: 250px;
+  padding: 10px 20px;
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 2px 0 35px 0 rgba(68, 88, 144, 0.12);
+  transition: all 0.3s ease-in-out;
+  border-radius: 8px;
+  z-index: 1;
+  text-align: center;
 }
-#marquee-div {
-        text-align: center;
-      }
 
-#marquee-content:hover{
-    animation-play-state: paused;
+.services .icon-box::before {
+  content: "";
+  position: absolute;
+  background: #fdeff2;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  top: 100%;
+  transition: all 0.4s;
+  z-index: -1;
+}
+
+.services .icon {
+  margin-bottom: 15px;
+}
+
+.services .icon i {
+  font-size: 48px;
+  line-height: 1;
+  color: #e43c5c;
+  transition: all 0.3s ease-in-out;
+}
+
+.services .title {
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.services .title a {
+  color: #111;
+}
+
+.services .description {
+  font-size: 15px;
+  line-height: 28px;
+  margin-bottom: 0;
+}
+
+.services {
+  padding-bottom: 30px;
+}
+
+/* notice board */
+.notice-board {
+  max-height: 250px;
+}
+.marquee-div {
+  text-align: center;
+}
+
+.marquee-content a {
+
+  text-decoration: none !important;
+}
+.marquee-content a:hover {
+  text-decoration: underline !important;
+}
+.marquee-content p{
+  position: relative;
+  margin-bottom: 0;
+  padding: .4rem 0;
+}
+.marquee-content p::before{
+  font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f0a9";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  margin-right: .8rem;
+
+}
+.marquee-content p::after{
+  position: absolute;
+  content: '';
+  height: 0.6px;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-color: rgb(44, 43, 43);
+}
+
+
+.marquee-content:hover {
+  animation-play-state: paused;
 }
 @keyframes marquee {
-    0%{
-        transform: translate(0,0);
-    }
-    100% {
-          transform: translate(0, -101%);
-        }
-      }
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(0, -101%);
+  }
+}
+.marquee-animation {
+  animation: marquee 11s linear infinite;
+}
+.notice-board {
+  overflow: hidden !important;
+  max-height: 305px;
+}
 
-
-      @media (min-width:992px) {
-        #marquee-content {
-            animation: marquee 5s linear infinite;
-          }
-          /* #marquee-div{
+@media (min-width: 992px) {
+  /* #marquee-div{
               overflow: hidden !important;
           } */
-          .notice-board{
-              overflow: hidden !important;
-              max-height: 305px;
-          }
 
-          .about{
-            
-            margin-top: 4rem;
-        }
+  .about {
+    margin-top: 4rem;
+  }
+}
 
-       
-       
-    }
-  
-  
-    @media (min-width:576px) {
-       
-        .notice-board{
-            border-width: 3px !important;
-        }
+@media (min-width: 576px) {
+  .notice-board {
+    border-width: 3px !important;
+  }
 
-        .about-img img{
-            width: initial;
-        }
-
-       
-    }
-
-    
+  .about-img img {
+    width: 200px;
+  }
+}

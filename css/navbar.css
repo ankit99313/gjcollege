@@ -6,6 +6,10 @@
   width: 75%;
   aspect-ratio: 10/3;
 }
+.navbar-number{
+  color: #E43C5C;
+}
+
 .share-div{
   display: flex;
   align-items: center;
@@ -59,7 +63,7 @@ font-size: 0.9rem !important;
  }
  
  nav ul {
-   float: right;
+  
    padding: 0;
    margin: 0;
    list-style: none;
@@ -81,7 +85,7 @@ font-size: 0.9rem !important;
  
  nav a {
    display: block;
-   padding: 0 15px;
+   padding: 0 11px;
    color: #E43C5C;
    font-size: 18px;
    line-height: 60px;
@@ -127,16 +131,11 @@ font-size: 0.9rem !important;
  --------------------------------------------- */
  @media all and (max-width : 1136px) {
   nav a {
-    padding: 0 8px;
+    padding: 0 6px;
     font-size: 16px;
   }
 }
 
-@media all and (max-width : 992px) {
-
- 
-
-} 
  @media all and (max-width : 992px) {
   nav a {
     padding: 0 20px;
@@ -205,6 +204,13 @@ font-size: 0.9rem !important;
  
  }
  }
+
+  @media all and (max-width : 772px) {
+ 
+ .phone-div img{
+ width: 300px;
+ }
+  }
  
  @media all and (max-width : 330px) {
  
@@ -212,4 +218,8 @@ font-size: 0.9rem !important;
    display: block;
    width: 94%;
  }
- } 
+ .phone-div img{
+  width: 220px;
+  }
+
+}

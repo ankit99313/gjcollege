@@ -78,11 +78,11 @@ include 'partial/navbar.php';
             <div class="card bg-light mb-3">
                 <div class="card-header bg-primary text-white text-uppercase"><i class="fa fa-home"></i> Address</div>
                 <div class="card-body">
-                    <p>3 rue des Champs Elysées</p>
-                    <p>75008 PARIS</p>
-                    <p>France</p>
-                    <p>Email : email@example.com</p>
-                    <p>Tel. +91 9931381277</p>
+                    <p>Sri Gadadhar Acharya Janta College</p>
+                    <p>Rambagh, Bihta (Patna)</p>
+                    <p>Pin - 801103</p>
+                    <p>Email : gjcollegebihta@gmail.com</p>
+                    <p>Mob: + 91-8804681871, 9934615246, 8873977587, 8340175837</p>
 
                 </div>
 

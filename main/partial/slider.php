@@ -15,26 +15,20 @@
       <div class="carousel-inner">
         <div class="carousel-item">
           <div class="bg-light border rounded border-light pulse animated hero-nature carousel-hero jumbotron py-5 px-4">
-            <h1 class="hero-title">Hero Nature</h1>
-            <p class="hero-subtitle">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac
-              facilisis in, egestas eget quam.</p>
-            <p><a class="btn btn-primary hero-button plat" role="button" href="#">Learn more</a></p>
+          
           </div>
         </div>
         <div class="carousel-item">
           <div class="bg-light border rounded border-light pulse animated hero-photography carousel-hero jumbotron py-5 px-4">
-            <h1 class="hero-title">Hero Photography</h1>
-            <p class="hero-subtitle">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac
-              facilisis in, egestas eget quam.</p>
-            <p><a class="btn btn-primary hero-button plat" role="button" href="#">Learn more</a></p>
+            <!-- <h1 class="hero-title">Hero Photography</h1>
+            <p class="hero-subtitle">.</p>
+            <p><a class="btn btn-primary hero-button plat" role="button" href="#">Learn more</a></p> -->
           </div>
         </div>
         <div class="carousel-item active">
           <div class="bg-light border rounded border-light pulse animated hero-technology carousel-hero jumbotron py-5 px-4">
-            <h1 class="hero-title">Hero Technology</h1>
-            <p class="hero-subtitle">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac
-              facilisis in, egestas eget quam.</p>
-            <p><a class="btn btn-primary hero-button plat" role="button" href="#">Learn more</a></p>
+            
+          
           </div>
         </div>
       </div>

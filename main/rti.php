@@ -20,6 +20,24 @@
      <link rel="stylesheet" href="../css/Footer-Dark.css">
     <link rel="stylesheet" href="../assets/fonts/ionicons.min.css">
 
+    <style>
+
+ 
+.download a{
+  border: solid 1px #e6e6e6;
+  background: #f2594b;
+  text-decoration: none;
+  color: white;
+  font-size: 11px;
+		font-weight: 700;
+		line-height: normal;
+		padding: 5px 10px;
+    border-radius: 6px;
+    text-transform: uppercase;
+}
+      
+    </style>
+
 
 </head>
 <body>
@@ -40,8 +58,16 @@
     <tr>
       <th scope="row">1</th>
       <td>Mark</td>
-      <td class="text-center">Otto</td>
-      <td class="text-center">@mdo</td>
+      <td class="text-center download">
+    
+    	<a href="../assets/1.pdf" target="_blank">View</a>
+    
+    </td>
+      <td class="text-center download">
+        <a href="href="../assets/1.pdf" download="file"">download</a>  
+  
+  </td>
+    
     </tr>
     <tr>
       <th scope="row">2</th>

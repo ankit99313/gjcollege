@@ -19,14 +19,30 @@
      <!-- footer css-->
      <link rel="stylesheet" href="../css/Footer-Dark.css">
     <link rel="stylesheet" href="../assets/fonts/ionicons.min.css">
+    <style>
 
+ 
+.download a{
+  border: solid 1px #e6e6e6;
+  background: #f2594b;
+  text-decoration: none;
+  color: white;
+  font-size: 11px;
+		font-weight: 700;
+		line-height: normal;
+		padding: 5px 10px;
+    border-radius: 6px;
+    text-transform: uppercase;
+}
+      
+    </style>
 
 </head>
 <body>
 <?php include 'partial/navbar.php';?>
 <?php include 'partial/slider.php';?>
 
-<?php include 'partial/footer.php';?>
+
 
 <script src="../js/jquery.min.js"></script>
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -36,7 +52,116 @@
 
 
 
+<table class="table m-auto" style="width: 90%;">
+  <thead  style="background-color: #E43C5C; color: white;">
+    <tr>
+      <th scope="col" class="sm">S.NO</th>
+      <th scope="col" >FILE_NAME</th>
+      <th scope="col" class="text-center">VIEW FILE</th>
+      <th scope="col" class="text-center">DOWNLOAD</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Resubmitted AQAR for 2018_19</td>
+      <td class="text-center download">
+    
+    	<a href="../assets/iqac/Resubmitted AQAR for 2018_19.pdf" target="_blank">View</a>
+    
+    </td>
+      <td class="text-center download">
+        <a href="../assets/iqac/Resubmitted AQAR for 2018_19.pdf" download="file"">download</a>  
+  
+  </td>
+    
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>AQAR 2019-2020</td>
+      <td class="text-center download">
+    
+    	<a href="../assets/iqac/AQAR 2019-2020.pdf" target="_blank">View</a>
+    
+    </td>
+      <td class="text-center download">
+        <a href="../assets/iqac/AQAR 2019-2020.pdf" download="file"">download</a>  
+  
+  </td>
+    
+    </tr>
 
+
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Best practices</td>
+      <td class="text-center download">
+    
+    	<a href="../assets/iqac/Best practices.pdf" target="_blank">View</a>
+    
+    </td>
+      <td class="text-center download">
+        <a href="../assets/iqac/Best practices.pdf" download="file"">download</a>  
+  
+  </td>
+    
+    </tr>
+
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Institutional distinctiveness</td>
+      <td class="text-center download">
+    
+    	<a href="../assets/iqac/Institutional distinctiveness.pdf" target="_blank">View</a>
+    
+    </td>
+      <td class="text-center download">
+        <a href="../assets/iqac/Institutional distinctiveness.pdf" download="file"">download</a>  
+  
+  </td>
+    
+    </tr>
+
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>Minutes of IQAC_04-06-2020</td>
+      <td class="text-center download">
+    
+    	<a href="../assets/iqac/Minutes of IQAC_04-06-2020.pdf" target="_blank">View</a>
+    
+    </td>
+      <td class="text-center download">
+        <a href="../assets/iqac/Minutes of IQAC_04-06-2020.pdf" download="file"">download</a>  
+  
+  </td>
+    
+    </tr>
+
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>Students feedback analysis</td>
+      <td class="text-center download">
+    
+    	<a href="../assets/iqac/Students feedback analysis.pdf" target="_blank">View</a>
+    
+    </td>
+      <td class="text-center download">
+        <a href="../assets/iqac/Students feedback analysis.pdf" download="file"">download</a>  
+  
+  </td>
+    
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+<?php include 'partial/footer.php';?>
 <script src="../js/bs-js/bootstrap.bundle.min.js"></script>
 <script src="../js/owl.carousel.min.js"></script>
 </body>

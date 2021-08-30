@@ -15,7 +15,10 @@
                 <div class="service-content">
                     <h3>Our mission</h3>
                     <hr>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisi risus, condimentum et orci quis, gravida maximus mauris. Praesent varius dolor eget ligula gravida mollis. Praesent ac. </p>
+                    <p><ul><li>
+                    To inculcate Spiritual, Ethical, Moral, ecological and social values to the students from all section of society. 
+ 
+                    </li></ul> </p>
                 </div>
             </div>
         </div>
@@ -26,7 +29,7 @@
                 <div class="service-content">
                     <h3>Our vision</h3>
                     <hr>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisi risus, condimentum et orci quis, gravida maximus mauris. Praesent varius dolor eget ligula gravida mollis. Praesent ac. </p>
+                    <p>To provide innovative educational environment and opportunities to rural youth for harmonious enrichment of physical, emotional and     intellectual facets of their personality and to bring out their hidden potential. </p>
                 </div>
             </div>
         </div>
@@ -37,7 +40,7 @@
                 <div class="service-content">
                     <h3>Our objective</h3>
                     <hr>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisi risus, condimentum et orci quis, gravida maximus mauris. Praesent varius dolor eget ligula gravida mollis. Praesent ac. </p>
+                    <p> To contribute the transformation of Society through Teaching; Learning; Research; Publication and Extension services </p>
                 </div>
             </div>
         </div>

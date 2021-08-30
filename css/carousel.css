@@ -1,3 +1,5 @@
+
+
 div.jumbotron.carousel-hero {
     color: #fff;
     text-align: center;
@@ -9,15 +11,22 @@ div.jumbotron.carousel-hero {
   }
   
   div.jumbotron.hero-nature {
-    background-image: url('../assets/img/architect-at-the-construction.jpg');
+    background-image: url('../assets/img/s1.jpg') ;
+  
+    aspect-ratio: 16/5;
+  
   }
   
   div.jumbotron.hero-photography {
-    background-image: url('../assets/img/architects-and-worker.jpg');
+    background-image: url('../assets/img/s2.jpg');
+  
+    aspect-ratio: 16/5;
   }
   
   div.jumbotron.hero-technology {
-    background-image: url('../assets/img/young-college-students.jpg');
+    background-image: url('../assets/img/s3.jpg');
+ 
+    aspect-ratio: 16/5;
   }
   
   h1.hero-title, h2.hero-title, h3.hero-title {
@@ -75,6 +84,28 @@ div.jumbotron.carousel-hero {
     margin-bottom: 3rem !important;
   }
 
+  @media (max-width:800px) {
+       
+   
+    div.jumbotron.hero-nature {
+      background-image: url('../assets/img/s1.jpg') ;
+    
+      aspect-ratio: 16/12;
+    
+    }
+    
+    div.jumbotron.hero-photography {
+      background-image: url('../assets/img/s2.jpg');
+    
+      aspect-ratio: 16/12;
+    }
+    
+    div.jumbotron.hero-technology {
+      background-image: url('../assets/img/s3.jpg');
+   
+      aspect-ratio: 16/12;
+    }
+  }
   @media (min-width:576px) {
        
    
